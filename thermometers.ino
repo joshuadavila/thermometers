@@ -51,7 +51,7 @@ lcd.setCursor(1, 1);
 if(temp3==-127.00)lcd.print("-----");
 else lcd.print(temp3);
 
-// prints fouth sensor
+// prints fourth sensor
 lcd.setCursor(10, 1);
 if(temp4==-127.00)lcd.print("-----");
 else lcd.print(temp4);
